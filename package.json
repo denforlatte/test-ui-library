@@ -1,11 +1,11 @@
 {
-  "name": "test-ui-library",
+  "name": "@denforlatte/test-ui-library",
   "version": "0.1.0",
   "description": "best. ui. eva.",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
   "types": "lib/index.d.ts",
-  "author": "Danny Fucking Wilkins",
+  "author": "Danny Wilkins",
   "license": "MIT",
   "private": true,
   "scripts": {
